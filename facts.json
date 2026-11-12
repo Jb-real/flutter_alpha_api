@@ -1,22 +1,44 @@
+
 [
-    "Cows have best friends and can become stressed when they are separated.",
-    "Honey never spoils. It can last for centuries without going bad.",
-    "A group of owls is called a parliament.",
-    "Bananas are berries, but strawberries aren't.",
-    "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.",
-    "The average person laughs about 15 times a day.",
-    "A single cloud can weigh as much as 1 million pounds.",
-    "Your taste buds have a lifespan of about 10 to 14 days.",
-    "The longest recorded hiccuping lasted for 68 years!",
-    "Bees can recognize human faces.",
-    "The world's largest desert is Antarctica.",
-    "A day on Venus is longer than a year on Venus.",
-    "Butterflies taste with their feet.",
-    "The dot over the letter 'i' is called a tittle.",
-    "A group of flamingos is called a 'flamboyance.'",
-    "The shortest war in history was between Britain and Zanzibar, lasting only 38 minutes.",
-    "The smell of freshly-cut grass is actually a plant distress call.",
-    "Elephants are the only animals that can't jump.",
-    "There are more possible iterations of a game of chess than there are atoms in the observable universe.",
-    "The world's oldest toy is a stick, according to archaeological finds."
-  ]
+  "Nigeria gained independence from Britain on 1st October 1960.",
+
+  "Nigeria became a republic in 1963.",
+
+  "Abuja became Nigeria's capital city in 1991, replacing Lagos.",
+
+  "Nigeria has 36 states and one Federal Capital Territory.",
+
+  "Nigeria's National Assembly has two chambers: the Senate and the House of Representatives.",
+
+  "The Nigerian Senate has 109 members.",
+
+  "The House of Representatives has 360 members.",
+
+  "A Nigerian president serves a four-year term.",
+
+  "A person can only be elected president twice in Nigeria.",
+
+  "Dr. Nnamdi Azikiwe was Nigeria's first ceremonial president.",
+
+  "Shehu Shagari was Nigeria's first executive president.",
+
+  "Abubakar Tafawa Balewa was Nigeria's first prime minister.",
+
+  "Nigeria experienced its first military coup in January 1966.",
+
+  "Nigeria returned to democratic rule on 29th May 1999.",
+
+  "Olusegun Obasanjo was Nigeria's first elected president under the Fourth Republic.",
+
+  "Nigeria has three arms of government: Executive, Legislature and Judiciary.",
+
+  "Herbert Macaulay is widely regarded as the father of Nigerian nationalism.",
+
+  "Nigeria's first political party was the Nigerian National Democratic Party (NNDP), founded in 1923.",
+
+  "Patricia Etteh became Nigeria's first female Speaker of the House of Representatives in 2007.",
+
+  "Nigeria's president lives and works at the Presidential Villa in Abuja."
+]
+
+console.log(nigeriaPoliticsFacts);
